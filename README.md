@@ -42,7 +42,7 @@ This project does not require a build step or a complex server. To run it locall
 - Deploy the application to a free hosting platform like GitHub Pages or Netlify.
 
 
-## 👨‍💻 Author
+# Author
 
 **João Vitor Roveda Bontempo**
 
